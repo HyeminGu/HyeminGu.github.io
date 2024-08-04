@@ -12,5 +12,5 @@ A lattice in the Euclidean space is an important issue for cryptography these da
 
 
 
-[View poster](../../../assets/pdf/jmm_2017-poster.pdf) 
+[View poster](/assets/pdf/jmm_2017-poster.pdf) 
 
