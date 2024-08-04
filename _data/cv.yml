@@ -38,24 +38,24 @@
 
 
 - title: Conferences
-  type: time_table
+  type: nested_list
   contents:
     - title: Poster presentation
-      institution: Optimal Transport in Data Science – ICERM, Brown university
-      year: 2023
-      description:
+      items:
+        - Optimal Transport in Data Science – ICERM, Brown university
+        - May 2023
         - H. Gu et al., Lipschitz Regularized Gradient Flows and Latent Generative Particles
         - [View poster](../assets/pdf/icerm_2023_poster_hyemin.pdf)
     - title: Poster presentation
-      institution: Joint Mathematics Meetings, Mathematical Association of America
-      year: 2018
-      description:
+      items:
+        - Joint Mathematics Meetings, Mathematical Association of America
+        - January 2018
         - H. Gu, Training a 2 layer Neural Network using SVD-generated weights
         - [View poster](../assets/pdf/jmm_2018-poster.pdf)
     - title: Poster presentation
-      institution: Joint Mathematics Meetings, Mathematical Association of America
-      year: 2017
-      description:
+      items:
+        - Joint Mathematics Meetings, Mathematical Association of America
+        - 2017
         - J. Park et al., Necessary and sufficient conditions for shortest vectors in lattices of dimension 2 and 3
         - [View poster](../assets/pdf/jmm_2017-poster.pdf)
 
