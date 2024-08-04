@@ -40,7 +40,7 @@ For a regression model with 2 predictor variables $$X_1$$ and $$X_2$$, we want t
 3. Draw added an added-variable plot (X-axis: $$e_i(X_{i1}\mid X_2)$$, Y-axis: $$e_i(Y \mid X_2)$$)
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/regression/added-variable_plot.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/regression/added-variable_plot.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

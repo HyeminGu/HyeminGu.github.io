@@ -48,7 +48,7 @@ First, we identify useful plots.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/regression/useful_plots.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/regression/useful_plots.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -59,7 +59,7 @@ useful plots for diagnostics
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/regression/linearity.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/regression/linearity.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -74,7 +74,7 @@ But if it isn't, then you can also see the nonhomogeneous residuals.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/regression/homogeneity.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/regression/homogeneity.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -85,7 +85,7 @@ homogeneity
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/regression/independency.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/regression/independency.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -99,7 +99,7 @@ You can check for the distribution by plotting a box plot, histogram, or Stem-an
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/regression/normality.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/regression/normality.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -112,7 +112,7 @@ You can draw a **semi-standardized residual plot** to figure out outliers.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/regression/outlier.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/regression/outlier.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -125,7 +125,7 @@ If some important predictors are omitted, the residuals may not be close to 0.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/regression/omission_of_predictor_variables.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/regression/omission_of_predictor_variables.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -142,7 +142,7 @@ Transform $$X$$. Define a new variable as $$X^\prime = f(X)$$ where $$f(\cdot)$$
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/regression/transformX.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/regression/transformX.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
