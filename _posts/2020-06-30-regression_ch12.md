@@ -93,9 +93,7 @@ Above one variable case can be generalized to multiple variables case. The only 
    > $$\sigma^2(\epsilon_t) = \sum_{s=0}^\infty \rho^{2s} \sigma^2(u_{t-s}) = \sigma^2 \sum_{s=0}^\infty \rho^{2s} = \sigma^2 \frac{1}{1-\rho^2}$$ ($$|\rho|<1$$).
    >
    > (3) Since $$E(\epsilon_t) = 0$$,
-   > $$\sigma(\epsilon_t, \epsilon_{t-1}) = E(\epsilon_t, \epsilon_{t-1})$$ > $$=E[(u_t + \rho u_{t-1} + \rho^2 u_{t-2} + \cdots )(u_{t-1} + \rho u_{t-2} + \rho^2 u_{t-3} + \cdots ) ]$$
-   > $$=E[u_t + \rho (u_{t-1} + \rho u_{t-2} + \cdots )(u_{t-1} + \rho u_{t-2} + \rho^2 u_{t-3} + \cdots ) ]$$
-   > $$= E[u_t (u_{t-1} + \rho u_{t-2} + \cdots )] + \rho E [ u_{t-1} + \rho u_{t-2} + \cdots ]^2$$.
+   > $$\sigma(\epsilon_t, \epsilon_{t-1}) = E(\epsilon_t, \epsilon_{t-1})$$ > $$=E[(u_t + \rho u_{t-1} + \rho^2 u_{t-2} + \cdots )(u_{t-1} + \rho u_{t-2} + \rho^2 u_{t-3} + \cdots ) ]$$ > $$=E[u_t + \rho (u_{t-1} + \rho u_{t-2} + \cdots )(u_{t-1} + \rho u_{t-2} + \rho^2 u_{t-3} + \cdots ) ]$$ > $$= E[u_t (u_{t-1} + \rho u_{t-2} + \cdots )] + \rho E [ u_{t-1} + \rho u_{t-2} + \cdots ]^2$$.
    > By independency of $$u_t$$, $$E(u_t u_{t-s}) E(u_t) E(u_{t-s})= 0 ~\forall s \neq 0$$.
    > $$\Rightarrow \sigma(\epsilon_t, \epsilon_{t-1}) = \rho E [ u_{t-1} + \rho u_{t-2} + \cdots ]^2 = \rho \sigma^2(\epsilon_{t-1}) = \rho \frac{\sigma^2}{1-\rho^2}$$.
 

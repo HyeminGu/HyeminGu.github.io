@@ -93,8 +93,7 @@ We have $$E(\hat{Y_h}) = E(Y_h) = \beta_0 + \beta_1 X_h$$, and $$\sigma^2(\hat{Y
 
 > <U>Proof</U> > $$\sigma^2(\hat{Y_h}) = \sigma^2(b_0 + b_1 X_h) = \sigma^2 (\bar{Y} - b_1 (X_h - \bar{X}))$$
 > Since $$\bar{Y} \perp b_1$$,
-> $$\sigma^2 (\bar{Y} - b_1 (X_h - \bar{X})) = \sigma^2 (\bar{Y}) + \sigma^2(b_1 (X_h-\bar{X}))$$
-> $$= \frac{\sigma^2}{n} + \frac{\sigma^2}{\sum_i (X_i - \bar{X})^2}(X_h - \bar{X})^2 = \sigma^2 [\frac{1}{n} + \frac{(X_h - \bar{X})^2}{\sum_i (X_i - \bar{X})^2}]$$
+> $$\sigma^2 (\bar{Y} - b_1 (X_h - \bar{X})) = \sigma^2 (\bar{Y}) + \sigma^2(b_1 (X_h-\bar{X}))$$ > $$= \frac{\sigma^2}{n} + \frac{\sigma^2}{\sum_i (X_i - \bar{X})^2}(X_h - \bar{X})^2 = \sigma^2 [\frac{1}{n} + \frac{(X_h - \bar{X})^2}{\sum_i (X_i - \bar{X})^2}]$$
 
 <U>Note</U> The variance of $$\hat{Y_h}$$ increases if $$X_h$$ is far from $$\bar{X}$$.
 

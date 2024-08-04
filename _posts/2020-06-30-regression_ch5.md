@@ -138,8 +138,7 @@ Property of the residual $$e$$
 
 - Since $$H$$ is an orthogonal projection matrix, so is $$I-H$$. We can interpret the residual $$e$$ as an orthogonal projection of $$Y$$ onto the space orthogonal to $$Range(X)$$. $$e \perp X$$, $$e \perp \hat{Y}$$.
 - $$E(e) = 0$$
-  > $$\because E(e) = E[(I-H)Y] = (I-H) E(Y) = (I-H)X\beta$$
-  > $$= X\beta - X(X^tX)^{-1}X^tX\beta = 0$$
+  > $$\because E(e) = E[(I-H)Y] = (I-H) E(Y) = (I-H)X\beta$$ > $$= X\beta - X(X^tX)^{-1}X^tX\beta = 0$$
 - $$\sigma^2(e) = \sigma^2(I-H)$$
   > $$\because \sigma^2(e) = \sigma^2[(I-H)Y] = (I-H)\sigma^2(Y)(I-H)^t$$ > $$= (I-H)\sigma^2I(I-H) = \sigma^2(I-H)^2I = \sigma^2(I-H)$$
 

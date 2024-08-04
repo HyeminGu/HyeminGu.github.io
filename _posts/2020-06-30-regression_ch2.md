@@ -91,8 +91,7 @@ and **sample variance** $$s^2 = \frac{1}{n-1} \sum_{i=1}^n (X_i - \bar{X})^2$$.
 (d) $$T = \frac{\bar{X} - \mu}{s/\sqrt{n}} \sim t(n-1)$$
 
 > <U>proof</U>
-> (b) $$\sum_{i=1}^n \frac{(X_i - \mu)^2}{\sigma^2} = \sum_{i=1}^n \frac{(X_i - \bar{X})^2}{\sigma^2} + \sum_{i=1}^n \frac{(\bar{X} - \mu)^2}{\sigma^2}$$
-> $$\sum_{i=1}^n \frac{(\bar{X} - \mu)^2}{\sigma^2} = \frac{(\bar{X} - \mu)^2}{(\sigma/\sqrt{n})^2}$$
+> (b) $$\sum_{i=1}^n \frac{(X_i - \mu)^2}{\sigma^2} = \sum_{i=1}^n \frac{(X_i - \bar{X})^2}{\sigma^2} + \sum_{i=1}^n \frac{(\bar{X} - \mu)^2}{\sigma^2}$$ > $$\sum_{i=1}^n \frac{(\bar{X} - \mu)^2}{\sigma^2} = \frac{(\bar{X} - \mu)^2}{(\sigma/\sqrt{n})^2}$$
 > First term follows $$\chi^2(n)$$, and third term follows $$\chi^2(1)$$. Due to the additivity in chi-square distribution, (b) follows.
 >
 > (d) $$T = \frac{\bar{X}-\mu}{s/\sqrt{n}} = \frac{(\bar{X}-\mu)/(\sigma/\sqrt{n})}{\sqrt{s^2/\sigma^2}} = \frac{z}{\sqrt{U/(n-1)}} \sim t(n-1)$$
