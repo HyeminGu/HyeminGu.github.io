@@ -17,7 +17,7 @@ If you need an assist to setup your computer to handle numerical computations an
 
 ## 2.Python ODE solver
 
-[View slides](/assets/pdf/video2-python_ode_solver.pdf) \| [Jupyter notebook](https://github.com/HyeminGu/Python_ODE_solving_tutorial/blob/main/video2-python_ode_solver.ipynb) \| [Youtube video](https://youtu.be/V2EDJBX4l9w)
+[View slides](/assets/pdf/video2-python_ode_solver.pdf) \| [Jupyter notebook](https://github.com/HyeminGu/Python_ODE_solving_tutorial/blob/main/video2-Python_ODE_Solver.ipynb) \| [Youtube video](https://youtu.be/V2EDJBX4l9w)
 
 ---
 
