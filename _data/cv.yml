@@ -42,17 +42,17 @@
   contents:
     - title: Poster presentation
       institution: Optimal Transport in Data Science, ICERM, Brown university
-      year: 2023 - 2023
+      year: 2023
       description:
         - H. Gu et al., Lipschitz Regularized Gradient Flows and Latent Generative Particles [View poster](../assets/pdf/icerm_2023_poster_hyemin.pdf)
     - title: Poster presentation
       institution: Joint Mathematics Meetings, Mathematical Association of America
-      year: 2018 - 2018
+      year: 2018
       description:
         - H. Gu, Training a 2 layer Neural Network using SVD-generated weights [View poster](../assets/pdf/jmm_2018-poster.pdf)
     - title: Poster presentation
       institution: Joint Mathematics Meetings, Mathematical Association of America
-      year: 2017 - 2017
+      year: 2017
       description:
         - J. Park et al., Necessary and sufficient conditions for shortest vectors in lattices of dimension 2 and 3 [View poster](../assets/pdf/jmm_2017-poster.pdf)
 
@@ -64,7 +64,7 @@
         - Implementation of a particle transportation algorithm through gradient flows associated with Lipschitz regularized f-divergences.
         - A generative model alternative to GANs in low training data regimes.
         - Mathematical interpretation of applying spectral normalization on neural network discriminators as a particle transportation speed regularization.
-    - title: Wasserstein-1/Wasserstein-2 proximal generative flow
+    - title: Wasserstein 1 / Wasserstein 2 proximal generative flow
       items:
         - Formulated and implemented a generative model with continuous-time adversarial flow architecture for learning distributions that are supported on low-dimensional manifolds.
         - Our formulation is analyzed via Mean Field Game theory and ensures good properties of the learned flow such as uniqueness of solution and optimal (linear) paths.
@@ -85,7 +85,7 @@
       institution: National Institute for Mathematical Sciences, South Korea
       year: 2017
       description:
-        - Proposed a model for assessing safe driving scores from On-board diagnostic data based on Poisson process
+        - Proposed a model for assessing safe driving scores from Onboard diagnostic data based on Poisson process
         - Attended tutorials on basics to neural networks
         
     
@@ -129,17 +129,17 @@
       institution: Department of Mathematics and Statistics, University of Massachusetts Amherst, MA, USA
       year: 2022 - Present
       description:
-        - Invited speakers among faculties in the department for introducing their research interests to early-career graduate students and hosted talks
-        - Participated in regular Graduate Student Advisory Committees meetings,
-        reported the progress, and discussed future directions
+        - Invited speakers among faculties in the department for introducing their research interests to early career graduate students and hosted talks
+        - Participated in regular Graduate Student Advisory Committees meetings, reported the progress, and discussed future directions
 
  
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2024
-      items:
-        - Anne and Peter Costa Graduate Prize in Applied Mathematics, Mathematics and statistics department in University of Massachusetts Amherst
+      institution: Mathematics and statistics department in University of Massachusetts Amherst
+      description:
+        - Anne and Peter Costa Graduate Prize in Applied Mathematics
 
 
 - title: Academic Interests
