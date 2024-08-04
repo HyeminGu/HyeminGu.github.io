@@ -47,6 +47,8 @@ nav_order: 3
 </div>
 {% endif %}
 
+---
+
 ### Tutorial
 
 {% if site.data.repositories.tutorial_repos %}
