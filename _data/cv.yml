@@ -143,13 +143,9 @@
     - year: 2024
       items:
         - Anne and Peter Costa Graduate Prize in Applied Mathematics, Mathematics and statistics department in University of Massachusetts - Amherst
-#        - Matteucci Medal
-#    - year: 2029
-#      items: 
-#        - Max Planck Medal
+
 
 - title: Academic Interests
-#  type: nested_list
   type: list
   contents:
     - dynamical transport, gradient flows, particle transport
@@ -157,8 +153,3 @@
     - generative modeling
 
 
-#- title: Personal Interests
-#  type: list
-#  contents:
-#    - Raising plants at home, visiting art gallaries, learning investment, yoga
-#    - Rock climbing, yoga
