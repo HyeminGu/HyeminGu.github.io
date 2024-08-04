@@ -11,13 +11,13 @@ categories: dynamical_system teaching machine_learning python_tutorial
 
 If you need an assist to setup your computer to handle numerical computations and showing interactive results, this 15-min video would give you the first step.
 
-[View slides](../../../assets/pdf/video1-Python_Tutorial_and_JupyterNotebook_Setup.pdf) \| [Youtube video](https://youtu.be/tHtfhgSVdIY)
+[View slides](../../../assets/pdf/video1-python_tutorial_and_jupyternotebook_setup.pdf) \| [Youtube video](https://youtu.be/tHtfhgSVdIY)
 
 ---
 
 ## 2.Python ODE solver
 
-[View slides](../../../assets/pdf/video2-python_ode_solver.pdf) \| [Jupyter notebook](https://github.com/HyeminGu/Python_ODE_solving_tutorial/blob/main/video2-Python_ODE_Solver.ipynb) \| [Youtube video](https://youtu.be/V2EDJBX4l9w)
+[View slides](../../../assets/pdf/video2-python_ode_solver.pdf) \| [Jupyter notebook](https://github.com/HyeminGu/Python_ODE_solving_tutorial/blob/main/video2-python_ode_solver.ipynb) \| [Youtube video](https://youtu.be/V2EDJBX4l9w)
 
 ---
 
