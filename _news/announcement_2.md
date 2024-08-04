@@ -1,33 +1,23 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Initiated a role as a TWIGS coordinator.
+date: 2022-09-05 16:11:00-0400
 inline: false
-related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+<a href='https://www.math.umass.edu/seminars/TWIGS'>The What Is... Graduate Seminar (TWIGS)</a> was originally founded by Farshid Hajir in 2002 as a way for graduate students to learn about faculty research interests in an accessible forum. After a brief hiatus, TWIGS is returning (in online form). Talks will be given by Department faculty on topics related to their research.
 
----
+***
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
-
-#### Hipster list
+Jobs of TWIGS coordinators are mainly
 
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+    <li>inviting faculties for giving talks,</li>
+    <li>organizing and hosting talks and</li>
+    <li>reporting current status and discussing future directions with Graduate Student Advisory Committee (GSAC). </li>
 </ul>
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+***
 
----
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+In Fall 2022, the talks were given by zoom in purpose of recording the talks and sharing the playlists in Youtube among department members.  <br>
+In Spring 2024, inperson talks were back.

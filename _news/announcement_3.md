@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
-inline: true
-related_posts: false
+title: Passed oral exam.
+date: 2023-04-12 16:11:00-0400
+inline: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+My oral exam on March 10th was proceeded in a presentation format. The presentation was about "Transportation of Probability measures and its application in Generative models" which is  background of my research. [View slides](../assets/pdf/oral_exam_presentation.pdf).

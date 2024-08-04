@@ -1,97 +1,164 @@
-- title: General Information
+- title: Summary
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+    - name: Name
+      value: Hyemin Gu
+    - current title: PhD candidate in <a href='https://www.umass.edu/mathematics-statistics/about/directory/hyemin-gu'>Mathematics, University of Massachusetts Amherst</a>
+    - name: Research interest
+      value: generative modeling, dynamical transport, gradient flows, particle transport, Wasserstein proximal regularization, entropic regularization
     - name: Languages
-      value: English, German
+      value: English, Korean
+    - name: Contact
+      value: hgu@umass.edu
+      
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD candidate in Mathematics
+      institution: University of Massachusetts Amherst, MA, US
+      year: 2020 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Specializing in Mathematical machine learning
+        - Advisor: Markos Katsoulakis
+    - title: MSc in Mathematics
+      institution: Ewha Womans University, Seoul, Republic of Korea
+      year: 2018 - 2020
       description:
-        - Description 1.
-        - Description 2.
+        - Thesis "Convolutional Neural Network for 2D Flow Estimation Problem"
+        - Specializing in Numerical analysis
+        - Advisor: June-Yub Lee
+    - title: BSc in Mathematics
+      institution: Ewha Womans University, Seoul, Republic of Korea
+      year: 2014 - 2018
+      description:
+        - Second major in Computational Science and its thesis "Low cost training of a classification Neural Network with respect to Weight Selection"
+        - Minor in Statistics
+        - Dean’s list 5 semesters
 
-- title: Experience
+
+- title: Conferences
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Poster presentation
+      institution: Optimal Transport in Data Science – ICERM, Brown university
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - H. Gu et al., Lipschitz Regularized Gradient Flows and Latent Generative Particles
+        - [View poster](../assets/pdf/icerm_2023_poster_hyemin.pdf)
+    - title: Poster presentation
+      institution: Joint Mathematics Meetings, Mathematical Association of America
+      year: 2018
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - H. Gu, Training a 2 layer Neural Network using SVD-generated weights
+        - [View poster](../assets/pdf/jmm_2018-poster.pdf)
+    - title: Poster presentation
+      institution: Joint Mathematics Meetings, Mathematical Association of America
+      year: 2017
       description:
+        - J. Park et al., Necessary and sufficient conditions for shortest vectors in lattices of dimension 2 and 3
+        - [View poster](../assets/pdf/jmm_2017-poster.pdf)
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+- title: Projects
+  type: nested_list
+  contents:
+    - title: <a href="https://github.com/HyeminGu/Lipschitz_regularized_generative_particles_algorithm">Lipschitz regularized generative particles algorithm</a>
+      items:
+        - Implementation of a particle transportation algorithm through gradient flows associated with Lipschitz regularized f-divergences.
+        - A generative model alternative to GANs in low training data regimes.
+        - Mathematical interpretation of applying spectral normalization on neural network discriminators as a particle transportation speed regularization.
+    - title: <a href="https://github.com/HyeminGu/Wasserstein-1_Wasserstein-2_generative_flow">Wasserstein-1/Wasserstein-2 proximal generative flow</a>
+      items:
+        - Formulated and implemented a generative model with continuous-time adversarial flow architecture for learning distributions that are supported on low-dimensional manifolds.
+        - Our formulation is analyzed via Mean Field Game theory and ensures good properties of the learned flow such as uniqueness of solution and optimal (linear) paths.
+        
 
-- title: Open Source Projects
+- title: Training
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Industrial Mathematics Academy
+      institution: National Institute for Mathematical Sciences, South Korea
+      year: 2018
+      description:
+        - Presented a final result of a group project for solving industrial problem
+        - Proposed a Convolutional Neural Network for classifying infected individual from images
+        - Coordinated team efforts for the group project
+        - Attended tutorials on Python data analysis and Keras, lectures on matrix based data analysis, linear programming theory and practice
+    - title: Industrial Mathematics Academy
+      institution: National Institute for Mathematical Sciences, South Korea
+      year: 2017
+      description:
+        - Proposed a model for assessing safe driving scores from On-board diagnostic data based on Poisson process
+        - Attended tutorials on basics to neural networks
+        
+    
 
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Graduate teaching assistant
+      institution: University of Massachusetts - Amherst, Amherst, MA, US
+      year: 2021
+      description:
+        - (MATH532H) Nonlinear dynamics and chaos with applications: graded assignments and conducted  <a href='https://hyemingu.github.io/documents/2021/python_ode_solving/'>tutorial sessions for Python ODE solving</a>
+        - (MATH545) Linear algebra for applied mathematics: graded assignments, conducted discussion sessions and arranged offie hours
+        - (MATH235) Linear algebra, (MATH545) Linear algebra for applied mathematics: graded assignments
+    - title: Graduate teaching assistant
+      institution: Ewha Womans University, Seoul, Korea
+      year: 2018 - 2019
+      description:
+        - Numerical differential equations (numerics for ODE/PDE, Monte-Carlo, optimization): graded assignments and arranged office hours
+        - Finite mathematics and programming (Matlab programming, mathematical logic, combinatorics): graded assignments and arranged office hours
+        - Calculus 2 (multivariate calculus): graded assignments and arranged office hours
+        - Numerical analysis (linear system solving, power method, numerical integration/differentiation): graded assignments and arranged office hours
+        
+
+
+- title: Work Experience
+  type: time_table
+  contents:
+    - title: Statistics specialist
+      institution: Ewha Womans University Seoul Hospital, Seoul, Korea
+      year: 2020
+      description:
+        - Developed a pipeline for acquiring, analyzing, and visualizing gene expression data from open repositories using R; authored a <a href='https://hyemingu.github.io/documents/2020/r_bioinformatics/'>tutorial book</a> on the process
+        - Conducted training sessions on statistical analysis using R for colleagues
+
+ 
+- title: Leadership
+  type: time_table
+  contents:
+    - title: Department seminar organizer
+      institution: Department of Mathematics and Statistics, University of Massachusetts - Amherst, MA, USA
+      year: 2022 - Present
+      description:
+        - Invited speakers among faculties in the department for introducing their research interests to early-career graduate students and hosted talks
+        - Participated in regular Graduate Student Advisory Committees meetings,
+        reported the progress, and discussed future directions
+
+ 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - Anne and Peter Costa Graduate Prize in Applied Mathematics, Mathematics and statistics department in University of Massachusetts - Amherst
+#        - Matteucci Medal
+#    - year: 2029
+#      items: 
+#        - Max Planck Medal
 
 - title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+#  type: nested_list
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - dynamical transport, gradient flows, particle transport
+    - Wasserstein proximal regularization, entropic regularization
+    - generative modeling
+
+
+#- title: Personal Interests
+#  type: list
+#  contents:
+#    - Raising plants at home, visiting art gallaries, learning investment, yoga
+#    - Rock climbing, yoga
