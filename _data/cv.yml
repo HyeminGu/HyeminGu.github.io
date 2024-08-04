@@ -69,7 +69,7 @@
         - Implementation of a particle transportation algorithm through gradient flows associated with Lipschitz regularized f-divergences.
         - A generative model alternative to GANs in low training data regimes.
         - Mathematical interpretation of applying spectral normalization on neural network discriminators as a particle transportation speed regularization.
-    - title: Wasserstein 1 / Wasserstein 2 proximal generative flow
+    - title: Wasserstein-1/Wasserstein-2 proximal generative flow
       items:
         - Formulated and implemented a generative model with continuous-time adversarial flow architecture for learning distributions that are supported on low-dimensional manifolds.
         - Our formulation is analyzed via Mean Field Game theory and ensures good properties of the learned flow such as uniqueness of solution and optimal (linear) paths.
@@ -108,7 +108,7 @@
       description:
         - Numerical differential equations (numerics for ODE/PDE, Monte-Carlo, optimization); graded assignments and arranged office hours
         - Finite mathematics and programming (Matlab programming, mathematical logic, combinatorics); graded assignments and arranged office hours
-        - Calculus 2 (multivariate calculus): graded assignments and arranged office hours
+        - Calculus 2 (multivariate calculus); graded assignments and arranged office hours
         - Numerical analysis (linear system solving, power method, numerical integration/differentiation); graded assignments and arranged office hours
 
 - title: Work Experience
