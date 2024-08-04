@@ -121,7 +121,7 @@ Ridge regression perturb the estimated coefficient $$b_R$$ from the unbiased est
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/regression/ridge_regression.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/regression/ridge_regression.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -141,7 +141,7 @@ As the biasing constant $$c$$ increases, the bias of the model would be increase
 Try several $$c$$ and plot $$b_R$$'s according to values of $$0 \leq c \leq 1$$. Take the point $$c^\ast$$ where the fluctuation in $$b_R$$ ceases.
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/regression/ridge_trace.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/regression/ridge_trace.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -178,7 +178,7 @@ Regression tree is a powerful, yet computationally simple method of nonparametri
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/regression/regression_tree.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/regression/regression_tree.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
