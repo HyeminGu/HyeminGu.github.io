@@ -4,7 +4,7 @@ publication_repos:
   - HyeminGu/Wasserstein-1_Wasserstein-2_generative_flow
   - HyeminGu/Proximal_generative_models
   - HyeminGu/Lipschitz_regularized_generative_particles_algorithm
-  
+
 tutorial_repos:
   - HyeminGu/Python_ODE_solving_tutorial
   - HyeminGu/Regression_R_tutorials

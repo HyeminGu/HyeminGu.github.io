@@ -12,5 +12,4 @@ We constructed gradient flows which minimize Lipschitz regularized f-divergences
 In terms of the transport equation of probability distributions in the Wasserstein space, the gradient flow evolves the empirical distribution in direction of the gradients of the function of likelihood ratio that are learned from data. This function is parametrized by neural networks, and its gradients give us the particle dynamics. Hence we transport the particles through the ODEs and generate more samples from the particles trajectory.
 Moreover, in order to reduce the dimensions, we developed our particle transportation algorithm in latent spaces and applied to high dimensional problems such as image generation and gene expression data merging.
 
-[View poster](/assets/pdf/icerm_2023_poster_hyemin.pdf) 
-
+[View poster](/assets/pdf/icerm_2023_poster_hyemin.pdf)

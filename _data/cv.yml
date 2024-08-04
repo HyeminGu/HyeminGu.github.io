@@ -10,7 +10,6 @@
       value: English, Korean
     - name: Contact
       value: hgu@umass.edu
-      
 
 - title: Education
   type: time_table
@@ -35,7 +34,6 @@
         - Second major in Computational Science and its thesis "Low cost training of a classification Neural Network with respect to Weight Selection"
         - Minor in Statistics
         - Dean’s list 5 semesters
-
 
 - title: Conferences
   type: time_table
@@ -68,7 +66,6 @@
       items:
         - Formulated and implemented a generative model with continuous-time adversarial flow architecture for learning distributions that are supported on low-dimensional manifolds.
         - Our formulation is analyzed via Mean Field Game theory and ensures good properties of the learned flow such as uniqueness of solution and optimal (linear) paths.
-        
 
 - title: Training
   type: time_table
@@ -87,8 +84,6 @@
       description:
         - Proposed a model for assessing safe driving scores from Onboard diagnostic data based on Poisson process
         - Attended tutorials on basics to neural networks
-        
-    
 
 - title: Teaching Experience
   type: time_table
@@ -108,8 +103,6 @@
         - Finite mathematics and programming (Matlab programming, mathematical logic, combinatorics): graded assignments and arranged office hours
         - Calculus 2 (multivariate calculus): graded assignments and arranged office hours
         - Numerical analysis (linear system solving, power method, numerical integration/differentiation): graded assignments and arranged office hours
-        
-
 
 - title: Work Experience
   type: time_table
@@ -121,7 +114,6 @@
         - Developed a pipeline for acquiring, analyzing, and visualizing gene expression data from open repositories using R; authored a <a href='https://hyemingu.github.io/documents/2020/r_bioinformatics/'>tutorial book</a> on the process
         - Conducted training sessions on statistical analysis using R for colleagues
 
- 
 - title: Leadership
   type: time_table
   contents:
@@ -132,7 +124,6 @@
         - Invited speakers among faculties in the department for introducing their research interests to early career graduate students and hosted talks
         - Participated in regular Graduate Student Advisory Committees meetings, reported the progress, and discussed future directions
 
- 
 - title: Honors and Awards
   type: time_table
   contents:
@@ -141,12 +132,9 @@
       description:
         - Anne and Peter Costa Graduate Prize in Applied Mathematics
 
-
 - title: Academic Interests
   type: list
   contents:
     - dynamical transport, gradient flows, particle transport
     - Wasserstein proximal regularization, entropic regularization
     - generative modeling
-
-

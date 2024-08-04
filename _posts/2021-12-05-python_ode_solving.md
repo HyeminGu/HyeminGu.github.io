@@ -22,11 +22,11 @@ If you need an assist to setup your computer to handle numerical computations an
 ---
 
 ## 3. PINN for Dynamical systems
+
 This 18 min video would provide you the tutorial to "Implementation and Python Library Tutorial for PINNs to Handle Dynamical Systems".
 
 Lorenz model and its inverse/forward problems are chosen as the example for dynamical systems.
 
 I attached the modified example code for forward/inverse Lorenz model in jupyter notebook (ipnb) and the slides.
 
-[View slides](/assets/pdf/video3-pinn_for_dynamical_systems.pdf) \| [Jupyter notebook - pytorch PINN](https://github.com/HyeminGu/Python_ODE_solving_tutorial/blob/main/video3-Pytorch-Forward-HarmonicOscillator.ipynb) \| [Jupyter notebook - DeepXDE](https://github.com/HyeminGu/Python_ODE_solving_tutorial/blob/main/video3-deepXDE-ForwardInverse-Lorenz.ipynb)  \| [Youtube video](https://youtu.be/vR5f1gXoVbc)
-
+[View slides](/assets/pdf/video3-pinn_for_dynamical_systems.pdf) \| [Jupyter notebook - pytorch PINN](https://github.com/HyeminGu/Python_ODE_solving_tutorial/blob/main/video3-Pytorch-Forward-HarmonicOscillator.ipynb) \| [Jupyter notebook - DeepXDE](https://github.com/HyeminGu/Python_ODE_solving_tutorial/blob/main/video3-deepXDE-ForwardInverse-Lorenz.ipynb) \| [Youtube video](https://youtu.be/vR5f1gXoVbc)

@@ -17,12 +17,13 @@ nav_order: 3
 </div>
 {% endif %}
 
---- 
+---
 -->
 
-### Publication 
+### Publication
 
 {% if site.data.repositories.publication_repos %}
+
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for repo in site.data.repositories.publication_repos %}
     {% include repository/repo.html repository=repo %}
@@ -30,10 +31,10 @@ nav_order: 3
 </div>
 {% endif %}
 
-
 ### Tutorial
 
 {% if site.data.repositories.tutorial_repos %}
+
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for repo in site.data.repositories.tutorial_repos %}
     {% include repository/repo.html repository=repo %}
