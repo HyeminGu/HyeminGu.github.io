@@ -3,7 +3,7 @@
   contents:
     - name: Name
       value: Hyemin Gu
-    - current title: PhD candidate in <a href='https://www.umass.edu/mathematics-statistics/about/directory/hyemin-gu'>Mathematics, University of Massachusetts Amherst</a>
+    - current title: PhD candidate in Mathematics, University of Massachusetts Amherst
     - name: Research interest
       value: generative modeling, dynamical transport, gradient flows, particle transport, Wasserstein proximal regularization, entropic regularization
     - name: Languages
@@ -19,14 +19,14 @@
       year: 2020 - Present
       description:
         - Specializing in Mathematical machine learning
-        - Advisor: Markos Katsoulakis
+        - Advised by Markos Katsoulakis
     - title: MSc in Mathematics
       institution: Ewha Womans University, Seoul, Republic of Korea
       year: 2018 - 2020
       description:
         - Thesis "Convolutional Neural Network for 2D Flow Estimation Problem"
         - Specializing in Numerical analysis
-        - Advisor: June-Yub Lee
+        - Advised by June-Yub Lee
     - title: BSc in Mathematics
       institution: Ewha Womans University, Seoul, Republic of Korea
       year: 2014 - 2018
@@ -34,6 +34,13 @@
         - Second major in Computational Science and its thesis "Low cost training of a classification Neural Network with respect to Weight Selection"
         - Minor in Statistics
         - Dean’s list 5 semesters
+        
+- title: Academic Interests
+  type: list
+  contents:
+    - dynamical transport, gradient flows, particle transport
+    - Wasserstein proximal regularization, entropic regularization
+    - generative modeling
 
 - title: Conferences
   type: time_table
@@ -42,17 +49,17 @@
       institution: Optimal Transport in Data Science, ICERM, Brown university
       year: 2023
       description:
-        - H. Gu et al., Lipschitz Regularized Gradient Flows and Latent Generative Particles [View poster](../assets/pdf/icerm_2023_poster_hyemin.pdf)
+        - H. Gu et al., Lipschitz Regularized Gradient Flows and Latent Generative Particles
     - title: Poster presentation
       institution: Joint Mathematics Meetings, Mathematical Association of America
       year: 2018
       description:
-        - H. Gu, Training a 2 layer Neural Network using SVD-generated weights [View poster](../assets/pdf/jmm_2018-poster.pdf)
+        - H. Gu, Training a 2 layer Neural Network using SVD-generated weights
     - title: Poster presentation
       institution: Joint Mathematics Meetings, Mathematical Association of America
       year: 2017
       description:
-        - J. Park et al., Necessary and sufficient conditions for shortest vectors in lattices of dimension 2 and 3 [View poster](../assets/pdf/jmm_2017-poster.pdf)
+        - J. Park et al., Necessary and sufficient conditions for shortest vectors in lattices of dimension 2 and 3
 
 - title: Projects
   type: nested_list
@@ -92,17 +99,17 @@
       institution: University of Massachusetts - Amherst, Amherst, MA, US
       year: 2021
       description:
-        - (MATH532H) Nonlinear dynamics and chaos with applications: graded assignments and conducted  <a href='https://hyemingu.github.io/documents/2021/python_ode_solving/'>tutorial sessions for Python ODE solving</a>
-        - (MATH545) Linear algebra for applied mathematics: graded assignments, conducted discussion sessions and arranged offie hours
-        - (MATH235) Linear algebra, (MATH545) Linear algebra for applied mathematics: graded assignments
+        - (MATH532H) Nonlinear dynamics and chaos with applications; graded assignments and conducted tutorial sessions for Python ODE solving
+        - (MATH545) Linear algebra for applied mathematics; graded assignments, conducted discussion sessions and arranged offie hours
+        - (MATH235) Linear algebra, (MATH545) Linear algebra for applied mathematics; graded assignments
     - title: Graduate teaching assistant
       institution: Ewha Womans University, Seoul, Korea
       year: 2018 - 2019
       description:
-        - Numerical differential equations (numerics for ODE/PDE, Monte-Carlo, optimization): graded assignments and arranged office hours
-        - Finite mathematics and programming (Matlab programming, mathematical logic, combinatorics): graded assignments and arranged office hours
+        - Numerical differential equations (numerics for ODE/PDE, Monte-Carlo, optimization); graded assignments and arranged office hours
+        - Finite mathematics and programming (Matlab programming, mathematical logic, combinatorics); graded assignments and arranged office hours
         - Calculus 2 (multivariate calculus): graded assignments and arranged office hours
-        - Numerical analysis (linear system solving, power method, numerical integration/differentiation): graded assignments and arranged office hours
+        - Numerical analysis (linear system solving, power method, numerical integration/differentiation); graded assignments and arranged office hours
 
 - title: Work Experience
   type: time_table
@@ -111,7 +118,7 @@
       institution: Ewha Womans University Seoul Hospital, Seoul, Korea
       year: 2020
       description:
-        - Developed a pipeline for acquiring, analyzing, and visualizing gene expression data from open repositories using R; authored a <a href='https://hyemingu.github.io/documents/2020/r_bioinformatics/'>tutorial book</a> on the process
+        - Developed a pipeline for acquiring, analyzing, and visualizing gene expression data from open repositories using R; authored a tutorial book on the process
         - Conducted training sessions on statistical analysis using R for colleagues
 
 - title: Leadership
@@ -131,10 +138,3 @@
       institution: Mathematics and statistics department in University of Massachusetts Amherst
       description:
         - Anne and Peter Costa Graduate Prize in Applied Mathematics
-
-- title: Academic Interests
-  type: list
-  contents:
-    - dynamical transport, gradient flows, particle transport
-    - Wasserstein proximal regularization, entropic regularization
-    - generative modeling
