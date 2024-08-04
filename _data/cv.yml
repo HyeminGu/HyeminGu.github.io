@@ -44,30 +44,27 @@
       institution: Optimal Transport in Data Science, ICERM, Brown university
       year: 2023 - 2023
       description:
-        - H. Gu et al., Lipschitz Regularized Gradient Flows and Latent Generative Particles
-        - [View poster](../assets/pdf/icerm_2023_poster_hyemin.pdf)
+        - H. Gu et al., Lipschitz Regularized Gradient Flows and Latent Generative Particles [View poster](../assets/pdf/icerm_2023_poster_hyemin.pdf)
     - title: Poster presentation
       institution: Joint Mathematics Meetings, Mathematical Association of America
       year: 2018 - 2018
       description:
-        - H. Gu, Training a 2 layer Neural Network using SVD-generated weights
-        - [View poster](../assets/pdf/jmm_2018-poster.pdf)
+        - H. Gu, Training a 2 layer Neural Network using SVD-generated weights [View poster](../assets/pdf/jmm_2018-poster.pdf)
     - title: Poster presentation
       institution: Joint Mathematics Meetings, Mathematical Association of America
       year: 2017 - 2017
       description:
-        - J. Park et al., Necessary and sufficient conditions for shortest vectors in lattices of dimension 2 and 3
-        - [View poster](../assets/pdf/jmm_2017-poster.pdf)
+        - J. Park et al., Necessary and sufficient conditions for shortest vectors in lattices of dimension 2 and 3 [View poster](../assets/pdf/jmm_2017-poster.pdf)
 
 - title: Projects
   type: nested_list
   contents:
-    - title: <a href="https://github.com/HyeminGu/Lipschitz_regularized_generative_particles_algorithm">Lipschitz regularized generative particles algorithm</a>
+    - title: Lipschitz regularized generative particles algorithm
       items:
         - Implementation of a particle transportation algorithm through gradient flows associated with Lipschitz regularized f-divergences.
         - A generative model alternative to GANs in low training data regimes.
         - Mathematical interpretation of applying spectral normalization on neural network discriminators as a particle transportation speed regularization.
-    - title: <a href="https://github.com/HyeminGu/Wasserstein-1_Wasserstein-2_generative_flow">Wasserstein-1/Wasserstein-2 proximal generative flow</a>
+    - title: Wasserstein-1/Wasserstein-2 proximal generative flow
       items:
         - Formulated and implemented a generative model with continuous-time adversarial flow architecture for learning distributions that are supported on low-dimensional manifolds.
         - Our formulation is analyzed via Mean Field Game theory and ensures good properties of the learned flow such as uniqueness of solution and optimal (linear) paths.
