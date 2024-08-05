@@ -27,4 +27,5 @@ Additionally, I am interested in applying and adapting our proposed models to ap
 Barbara Oakley, in her book _A Mind for Numbers_, highlights a common challenge in both mathematics and applied fields:
 
 > The challenge is that it's often easier to pick up on a mathematical idea if it is applied directly to a concrete problem -- even though that can make it more difficult to transfer the mathematical idea to new areas later. Unsurprisingly, there ends up being a constant tuscle between concrete and abstract approaches to learning mathematics. Mathematicians try to hold the high ground by stepping back to make sure that abstract approaches are central to the learning process. In contrast, engineering, business, and many other professions all naturally gravitate toward math that focuses on their specific areas to help build student engagement and avoid the complaint of "When am I ever going to use this?"
-> My ultimate goal is to reduce the gap between mathematics and applied fields by continuously reflecting insights from one onto the other.
+
+My ultimate goal is to reduce the gap between mathematics and applied fields by continuously reflecting insights from one onto the other.
